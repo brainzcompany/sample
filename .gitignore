@@ -1,3 +1,7 @@
+.vscode-server
+.dotnet
+.bash_history
+
 node_modules
 
 dist
